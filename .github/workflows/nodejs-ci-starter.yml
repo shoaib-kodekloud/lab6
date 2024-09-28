@@ -1,4 +1,4 @@
-name: Organization NodeJS CI
+name: shoaib NodeJS CI
 
 on:
    push:
